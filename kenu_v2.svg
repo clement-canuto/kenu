@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="kenu_v2.svg"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 396.87499 396.87501"
+   height="1500"
+   width="1500">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1338">
+      <stop
+         id="stop1334"
+         offset="0"
+         style="stop-color:#2a7fff;stop-opacity:1" />
+      <stop
+         style="stop-color:#00ffcc;stop-opacity:1"
+         offset="1"
+         id="stop1336" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="56.531139"
+       x2="702.98816"
+       y1="335.12839"
+       x1="700.97876"
+       id="linearGradient1330"
+       xlink:href="#linearGradient1338"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg8"
+     inkscape:document-units="px"
+     inkscape:cy="688.01273"
+     inkscape:cx="488.9025"
+     inkscape:zoom="0.25233333"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#a3a3a3"
+     id="base"
+     inkscape:lockguides="false">
+    <sodipodi:guide
+       position="0,396.875"
+       orientation="-1,0"
+       id="guide947"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,396.875"
+       orientation="0,1"
+       id="guide949"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="396.875,396.875"
+       orientation="-1,0"
+       id="guide951"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2.4192079,0"
+       orientation="0,1"
+       id="guide953"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-955.15575,198.4375"
+       orientation="0,1"
+       id="guide955"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="198.4375,396.875"
+       orientation="-1,0"
+       id="guide957"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="207.50047,207.24739"
+       orientation="0.70710678,-0.70710678"
+       id="guide963" />
+    <sodipodi:guide
+       position="363.30295,224.12074"
+       orientation="0.70710678,-0.70710678"
+       id="guide965" />
+    <sodipodi:guide
+       position="175.72,221.155"
+       orientation="0.70710678,-0.70710678"
+       id="guide967" />
+    <sodipodi:guide
+       position="157.92557,234.50082"
+       orientation="0.70710678,-0.70710678"
+       id="guide969" />
+    <sodipodi:guide
+       position="130.9851,235.68258"
+       orientation="-0.70710678,-0.70710678"
+       id="guide971"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     style="opacity:0.998;fill:#e9afaf;fill-opacity:0.419836;stroke-width:2.38774;paint-order:stroke markers fill;stop-color:#000000"
+     id="path943"
+     cx="198.4375"
+     cy="198.4375"
+     r="198.4375" />
+  <path
+     id="circle945"
+     style="opacity:0.998;fill:#4d4d4d;fill-opacity:0.419836;stroke-width:20.0278;paint-order:stroke markers fill;stop-color:#000000"
+     d="M 749.63672 903.6543 A 1664.4389 1664.4389 0 0 0 63.423828 1051.8457 A 749.99999 749.99999 0 0 0 750 1500 A 749.99999 749.99999 0 0 0 1156.6035 1380.2148 A 375 375 0 0 1 1056.3594 1125 A 375 375 0 0 1 1104.168 941.77734 A 1664.4389 1664.4389 0 0 0 749.97461 903.6543 A 1664.4389 1664.4389 0 0 0 749.63672 903.6543 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="path973"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     d="M 750 0 A 749.99999 749.99999 0 0 0 165.66602 279.83594 L 649.39453 763.5625 L 678.95703 734 L 750 734 L 750 0 z M 749.51172 863.68164 L 750 864.16992 L 750 863.68359 A 1664.4389 1664.4389 0 0 0 749.51172 863.68164 z "
+     transform="scale(0.26458333)" />
+  <path
+     id="path975"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     d="M 688.95703 750 L 546.86328 892.09375 A 1664.4389 1664.4389 0 0 1 749.63672 879.6543 A 1664.4389 1664.4389 0 0 1 749.97461 879.6543 A 1664.4389 1664.4389 0 0 1 1056.0117 908.03125 L 1214.043 750 L 688.95703 750 z "
+     transform="scale(0.26458333)" />
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:19.2622;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     d="M 91.298386,257.24899 143.6269,204.92048"
+     id="path1039" />
+</svg>
