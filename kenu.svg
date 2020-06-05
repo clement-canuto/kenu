@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
-   sodipodi:docname="kenu.svg">
+   sodipodi:docname="kenu.svg"
+   inkscape:export-filename="/home/canuto/Documents/Repos/kenu/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -82,7 +85,7 @@
        x2="744.83594"
        y2="131.41406"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.2150877,0,0,0.2150877,13.011372,28.410102)" />
+       gradientTransform="matrix(0.2150877,0,0,0.2150877,1497.773,754.04961)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1338"
@@ -145,7 +148,8 @@
        y1="1130.999"
        x2="123.91717"
        y2="845.95984"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1484.7616,725.63951)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1648"
@@ -165,6 +169,15 @@
        x2="695.91956"
        y2="-16.118372"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,-142.00012,3084.5766)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1648"
+       id="linearGradient943"
+       gradientUnits="userSpaceOnUse"
+       x1="691.98419"
+       y1="270.19281"
+       x2="691.98419"
+       y2="56.298275" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -173,9 +186,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0373333"
-     inkscape:cx="619.37553"
-     inkscape:cy="3909.489"
+     inkscape:zoom="0.089213305"
+     inkscape:cx="4420.0768"
+     inkscape:cy="2075.9775"
      inkscape:document-units="px"
      inkscape:current-layer="g1273"
      inkscape:document-rotation="0"
@@ -455,34 +468,34 @@
      inkscape:label="vectors"
      style="display:inline">
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -400.68494,242.05443 -2.84968,7.48545 c 16.54436,6.39809 15.17503,27.23322 16.6948,35.92866 l 29.48003,1.88938 c 3.28362,-9.99407 13.30056,-23.68876 25.74372,-29.25739 l 3.74394,-8.84995 c -48.0647,-7.541 -51.41591,-5.38698 -72.81281,-7.19615 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.284759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 910.16511,-285.82564 -3.06217,8.04362 c 17.778,6.87517 16.30657,29.26389 17.93966,38.60773 l 31.67824,2.03026 c 3.52847,-10.7393 14.29234,-25.45515 27.66333,-31.43901 l 4.02312,-9.50986 c -51.6487,-8.1033 -55.2498,-5.78866 -78.24218,-7.73274 z"
        id="path1040"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -403.35621,241.75075 -3.72023,9.76829 c 19.48214,6.73939 16.3434,35.27358 17.84275,34.07833 -44.70971,-0.55713 -88.62409,2.03128 -130.35513,15.60766 31.98697,-31.31652 78.506,-49.52332 116.23261,-59.45428 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.284759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 907.29465,-286.15196 -3.99763,10.49667 c 20.93484,7.24192 17.56206,37.90381 19.17321,36.61943 -48.04354,-0.59867 -95.23245,2.18275 -140.07521,16.77147 34.37212,-33.65169 84.35989,-53.2161 124.89963,-63.88757 z"
        id="path1042"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.11178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -573.25253,317.90485 c 7.36846,-7.40933 49.78825,-49.42686 72.62793,-62.95965 21.70549,-10.92024 2.24115,13.84437 -7.02903,22.20489 l 28.5038,-1.0675 -7.55318,7.35465 -27.72993,0.80236 -23.91427,21.77373 c -21.58319,8.40328 -24.01905,7.47187 -34.90532,11.89152 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.19468;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 724.72983,-204.31933 c 7.91789,-7.96182 53.50075,-53.11244 78.0435,-67.65432 23.32398,-11.73452 2.40826,14.87669 -7.55316,23.86062 l 30.62922,-1.1471 -8.11639,7.90307 -29.79764,0.86219 -25.69747,23.39731 c -23.19255,9.02988 -25.81005,8.02902 -37.50806,12.77823 z"
        id="path1046"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.316889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -423.39745,75.527294 -4.69081,167.260146 5.26831,-1.65637 5.15954,-167.912661 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.340518;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 885.75901,-464.77005 -5.04058,179.73208 5.66114,-1.77988 5.54427,-180.43325 z"
        id="path1048"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.302505;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -428.08826,77.084771 -5.11334,167.705499 c -8.41736,4.32499 -16.73674,8.07277 -24.38968,12.44774 -25.07848,-36.29048 -66.48741,-56.38572 -101.45407,-77.75495 32.42007,-30.58346 57.8314,-70.90437 130.95709,-102.398289 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.325062;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 880.71843,-463.09644 -5.49463,180.21065 c -9.04501,4.64748 -17.98473,8.67472 -26.20832,13.37592 -26.94849,-38.99653 -71.44512,-60.59019 -109.0191,-83.55284 34.8375,-32.86395 62.14365,-76.19143 140.72205,-110.03373 z"
        id="path1050"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path1052"
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -465.25546,56.717717 c -94.48721,0 -171.13684,76.651683 -171.13684,171.138903 0,94.48722 76.64963,171.13685 171.13684,171.13685 94.48722,0 171.13838,-76.64963 171.13838,-171.13685 0,-94.48721 -76.65116,-171.138903 -171.13838,-171.138903 z m 0.0104,0.178165 c 91.76461,0 166.09107,79.196138 166.09107,170.960738 0,43.01465 -15.07792,81.13986 -41.88405,110.63394 -6.24213,-4.91969 -22.14046,-19.6673 -17.80807,-45.9056 -82.45759,-7.70951 -160.90505,5.25185 -235.30021,40.03476 0.24189,0.29729 0.46665,0.60878 0.71055,0.90435 -23.69107,-28.70946 -37.91911,-65.52044 -37.91911,-105.66745 0,-91.7646 74.34525,-170.960738 166.10984,-170.960738 z M -592.15779,335.05421 c 0.85814,1.01489 1.72833,2.01946 2.61018,3.01326 -0.88183,-0.99386 -1.75205,-1.99832 -2.61018,-3.01326 z"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.284759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 840.77981,-484.98219 c -101.53275,0 -183.89784,82.3673 -183.89784,183.90007 0,101.53278 82.36509,183.89787 183.89784,183.89787 101.53277,0 183.89949,-82.36509 183.89949,-183.89787 0,-101.53276 -82.36672,-183.90007 -183.89949,-183.90007 z m 0.0112,0.19145 c 98.60714,0 178.47589,85.10149 178.47589,183.70862 0,46.22209 -16.2023,87.19016 -45.00724,118.8835 -6.70758,-5.28654 -23.79138,-21.13382 -19.13594,-49.32861 -88.60614,-8.28438 -172.90312,5.64346 -252.84563,43.02 0.25993,0.31946 0.50145,0.65417 0.76353,0.97178 -25.45764,-30.85021 -40.74661,-70.40605 -40.74661,-113.54667 0,-98.60713 79.88889,-183.70862 178.496,-183.70862 z m -136.37613,298.89953 c 0.92212,1.09057 1.8572,2.17004 2.80481,3.23795 -0.94759,-1.06797 -1.8827,-2.14733 -2.80481,-3.23795 z"
        sodipodi:nodetypes="sssssssccccssccc" />
   </g>
   <g
@@ -495,15 +508,15 @@
        id="rect1296"
        width="1084.1472"
        height="408.06378"
-       x="-4.6802449"
-       y="-0.78708214"
+       x="1480.0814"
+       y="724.85242"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path1261"
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient1290);fill-opacity:1;stroke:none;stroke-width:0.215425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 173.20793,56.53114 c -76.811478,0 -139.122162,62.31245 -139.122163,139.12394 1e-6,76.81149 62.310685,139.12225 139.122163,139.12225 76.81148,0 139.1235,-62.31076 139.1235,-139.12225 0,-76.81148 -62.31202,-139.12394 -139.1235,-139.12394 z m 0.009,0.14451 c 74.5982,0 135.02047,64.38124 135.02047,138.97943 0,34.96789 -12.25747,65.96071 -34.04897,89.93732 -5.07442,-3.99936 -17.99876,-15.98781 -14.47683,-37.31772 -67.03225,-6.26728 -130.80424,4.26939 -191.282188,32.54547 0.19664,0.24167 0.37936,0.49487 0.57762,0.73516 C 49.747488,258.21655 38.181083,228.29179 38.181083,195.65508 38.181085,121.05689 98.618399,56.67565 173.21657,56.67565 Z m 38.68302,13.269065 c -141.266633,-46.62981 -70.63332,-23.314905 0,0 z m -20.01612,7.012654 c -59.44659,25.602351 -80.10404,58.380511 -106.459268,83.242721 28.425418,17.37169 61.348738,31.25495 81.735788,60.75656 9.34227,-5.26069 14.34086,-7.00863 20.47825,-9.51104 z M 221.41139,206.9497 c -21.45245,5.64704 -44.28464,14.58696 -66.24215,28.1622 l -16.42775,0.61502 c 7.536,-6.79651 23.35915,-26.92837 5.71411,-18.05098 -18.56706,11.00121 -53.051525,45.15879 -59.041522,51.18204 8.837344,-3.60671 9.362344,-4.47794 28.375572,-9.66718 l 19.44065,-17.70061 12.86955,-0.37221 c -6.06511,4.30765 -11.80453,9.01774 -17.06083,14.16386 33.884,-11.02351 67.42225,-13.13519 103.72327,-12.68892 -0.91361,-0.86515 0.82663,-22.44349 -14.37515,-27.7022 z m 4.28813,0.24702 -2.31639,6.08504 c 13.44939,5.2012 12.33605,22.13862 13.57153,29.2074 l 23.96504,1.53628 c 2.66937,-8.12447 10.8128,-19.2575 20.92821,-23.78441 l 3.04357,-7.19452 c -39.07322,-6.1303 -41.79777,-4.37907 -59.19196,-5.84979 z"
+       d="m 1657.9695,782.17065 c -76.8114,0 -139.1221,62.31245 -139.1221,139.12394 0,76.81149 62.3107,139.12221 139.1221,139.12221 76.8115,0 139.1235,-62.31072 139.1235,-139.12221 0,-76.81148 -62.312,-139.12394 -139.1235,-139.12394 z m 0.01,0.14451 c 74.5982,0 135.0205,64.38124 135.0205,138.97943 0,34.96789 -12.2575,65.96071 -34.049,89.93731 -5.0744,-3.9993 -17.9987,-15.9878 -14.4768,-37.31771 -67.0322,-6.26728 -130.8042,4.26939 -191.2822,32.54551 0.1967,0.2416 0.3794,0.4948 0.5776,0.7351 -19.2595,-23.33874 -30.8259,-53.2635 -30.8259,-85.90021 0,-74.59819 60.4373,-138.97943 135.0355,-138.97943 z m 38.6831,13.26907 c -141.2667,-46.62981 -70.6334,-23.31491 0,0 z m -20.0162,7.01265 c -59.4465,25.60235 -80.104,58.38051 -106.4592,83.24272 28.4254,17.37169 61.3487,31.25495 81.7358,60.75656 9.3422,-5.26069 14.3408,-7.00863 20.4782,-9.51104 z m 29.5276,129.99233 c -21.4524,5.64704 -44.2846,14.58696 -66.2421,28.1622 l -16.4278,0.61502 c 7.536,-6.79651 23.3592,-26.92837 5.7141,-18.05098 -18.567,11.00121 -53.0515,45.15879 -59.0415,51.18204 8.8373,-3.60671 9.3623,-4.47794 28.3756,-9.66718 l 19.4406,-17.70061 12.8696,-0.37221 c -6.0651,4.30765 -11.8046,9.01774 -17.0609,14.16386 33.884,-11.02351 67.4223,-13.13519 103.7233,-12.68892 -0.9136,-0.86515 0.8266,-22.44349 -14.3751,-27.7022 z m 4.2881,0.24702 -2.3164,6.08504 c 13.4494,5.2012 12.3361,22.13862 13.5716,29.2074 l 23.965,1.53628 c 2.6694,-8.12447 10.8128,-19.2575 20.9282,-23.78441 l 3.0436,-7.19452 c -39.0732,-6.1303 -41.7978,-4.37907 -59.192,-5.84979 z"
        sodipodi:nodetypes="sssssssccccssscccccccccccccccccccccccccc"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
@@ -512,7 +525,7 @@
        aria-label="KENU"
        id="text1300"
        style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1357);fill-opacity:1;stroke:none;stroke-width:1.42596"
-       transform="translate(-37.570844)"
+       transform="translate(1447.1908,725.63951)"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -539,38 +552,38 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:58.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:9.67846px;word-spacing:0px;fill:#2789fb;fill-opacity:1;stroke:none;stroke-width:1.46698"
-       x="374.55316"
-       y="333.8678"
+       x="1859.3148"
+       y="1059.5073"
        id="text1304"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1302"
-         x="374.55316"
-         y="333.8678"
+         x="1859.3148"
+         y="1059.5073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6793px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2789fb;fill-opacity:1;stroke-width:1.46698"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">CASUAL SURFWEAR</tspan></text>
     <rect
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
-       y="407.2767"
-       x="-4.6802449"
+       y="1132.9163"
+       x="1480.0814"
        height="408.06378"
        width="1084.1472"
        id="rect1296-9"
        style="display:inline;opacity:0.998;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.7595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000" />
     <path
        sodipodi:nodetypes="sssssssccccssscccccccccccccccccccccccccc"
-       d="m 173.20792,464.59492 c -76.811481,0 -139.122161,62.31245 -139.122161,139.12394 0,76.81149 62.31068,139.12227 139.122161,139.12227 76.81148,0 139.1235,-62.31078 139.1235,-139.12227 0,-76.81148 -62.31202,-139.12394 -139.1235,-139.12394 z m 0.009,0.14451 c 74.59821,0 135.02048,64.38124 135.02048,138.97943 0,34.96789 -12.25748,65.96072 -34.04896,89.93734 -5.07444,-3.99937 -17.99878,-15.98782 -14.47684,-37.31774 -67.03225,-6.26727 -130.80425,4.26939 -191.282191,32.54547 0.19664,0.24167 0.37936,0.49488 0.57762,0.73517 -19.25955,-23.33876 -30.82596,-53.26353 -30.82596,-85.90024 0,-74.59819 60.43731,-138.97943 135.035481,-138.97943 z m 38.68302,13.26907 c -141.266621,-46.62981 -70.63332,-23.31491 0,0 z m -20.01611,7.01265 c -59.4466,25.60235 -80.10405,58.38051 -106.459281,83.24272 28.425421,17.37169 61.047051,31.55021 81.434101,61.05182 l 20.77994,-9.80629 z m 29.52756,129.99233 c -21.45245,5.64705 -44.28464,14.58696 -66.24215,28.1622 l -16.42775,0.61502 c 7.536,-6.79651 23.35915,-26.92837 5.71411,-18.05098 -18.56706,11.00121 -53.051521,45.15879 -59.041521,51.18206 8.83734,-3.60672 9.36234,-4.47794 28.375571,-9.6672 l 19.44065,-17.7006 12.86955,-0.37221 c -6.06511,4.30764 -11.80453,9.01774 -17.06083,14.16386 33.884,-11.02351 67.42225,-13.13519 103.72327,-12.68892 -0.91361,-0.86515 0.82663,-22.44349 -14.37515,-27.7022 z m 4.28813,0.24702 -2.31639,6.08505 c 13.44939,5.2012 12.33605,22.13861 13.57153,29.20739 l 23.96503,1.53628 c 2.66938,-8.12446 10.81281,-19.2575 20.92823,-23.78441 l 3.04355,-7.19452 C 245.81826,614.98 243.09371,616.73123 225.69952,615.2605 Z"
+       d="m 1657.9695,1190.2344 c -76.8114,0 -139.1221,62.3125 -139.1221,139.124 0,76.8115 62.3107,139.1222 139.1221,139.1222 76.8115,0 139.1235,-62.3107 139.1235,-139.1222 0,-76.8115 -62.312,-139.124 -139.1235,-139.124 z m 0.01,0.1445 c 74.5982,0 135.0205,64.3813 135.0205,138.9795 0,34.9679 -12.2575,65.9607 -34.0489,89.9373 -5.0745,-3.9994 -17.9988,-15.9878 -14.4769,-37.3177 -67.0322,-6.2673 -130.8042,4.2694 -191.2822,32.5454 0.1967,0.2417 0.3794,0.4949 0.5776,0.7352 -19.2595,-23.3387 -30.8259,-53.2635 -30.8259,-85.9002 0,-74.5982 60.4373,-138.9795 135.0355,-138.9795 z m 38.6831,13.2691 c -141.2667,-46.6298 -70.6334,-23.3149 0,0 z m -20.0162,7.0127 c -59.4466,25.6023 -80.104,58.3805 -106.4592,83.2427 28.4254,17.3717 61.047,31.5502 81.4341,61.0518 l 20.7799,-9.8063 z m 29.5276,129.9923 c -21.4524,5.647 -44.2846,14.587 -66.2421,28.1622 l -16.4278,0.615 c 7.536,-6.7965 23.3592,-26.9284 5.7141,-18.051 -18.567,11.0012 -53.0515,45.1588 -59.0415,51.1821 8.8373,-3.6067 9.3623,-4.4779 28.3756,-9.6672 l 19.4406,-17.7006 12.8696,-0.3722 c -6.0651,4.3076 -11.8046,9.0177 -17.0609,14.1638 33.884,-11.0235 67.4223,-13.1351 103.7233,-12.6889 -0.9136,-0.8651 0.8266,-22.4435 -14.3751,-27.7022 z m 4.2881,0.247 -2.3164,6.0851 c 13.4494,5.2012 12.3361,22.1386 13.5716,29.2074 l 23.965,1.5362 c 2.6694,-8.1244 10.8128,-19.2575 20.9282,-23.7844 l 3.0436,-7.1945 c -39.0732,-6.1303 -41.7978,-4.3791 -59.192,-5.8498 z"
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.215425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="path1261-7"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
-       transform="translate(-37.570861,408.06378)"
+       transform="translate(1447.1908,1133.7033)"
        style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.42596"
        id="text1300-6"
        aria-label="KENU"
@@ -599,17 +612,17 @@
     </g>
     <text
        id="text1304-8"
-       y="741.93158"
-       x="374.55316"
-       style="font-style:normal;font-weight:normal;font-size:58.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:9.67846px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.46698;"
+       y="1467.571"
+       x="1859.3148"
+       style="font-style:normal;font-weight:normal;font-size:58.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:9.67846px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.46698"
        xml:space="preserve"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6793px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.46698;"
-         y="741.93158"
-         x="374.55316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6793px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:1.46698"
+         y="1467.571"
+         x="1859.3148"
          id="tspan1302-8"
          sodipodi:role="line">CASUAL SURFWEAR</tspan></text>
     <rect
@@ -617,15 +630,15 @@
        id="rect1296-9-4"
        width="1084.1472"
        height="408.06378"
-       x="-4.6802449"
-       y="815.34045"
+       x="1480.0814"
+       y="1540.98"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path1261-7-5"
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient1516);fill-opacity:1;stroke:none;stroke-width:0.215425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 173.20793,872.65871 c -76.811485,0 -139.122175,62.31245 -139.122175,139.12389 0,76.8115 62.31069,139.1223 139.122175,139.1223 76.81148,0 139.12349,-62.3108 139.12349,-139.1223 0,-76.81143 -62.31201,-139.12389 -139.12349,-139.12389 z m 0.009,0.14451 c 74.59822,0 135.02049,64.38124 135.02049,138.97938 0,34.9679 -12.25748,65.9608 -34.04896,89.9374 -5.07444,-3.9994 -17.99878,-15.9878 -14.47684,-37.3178 -67.03225,-6.2672 -130.80426,4.2694 -191.282205,32.5455 0.19664,0.2417 0.37936,0.4949 0.57762,0.7352 -19.25955,-23.3388 -30.82596,-53.2635 -30.82596,-85.9003 0,-74.59814 60.43731,-138.97938 135.035495,-138.97938 z m 18.66692,20.28172 c -59.44662,25.60235 -80.10407,58.38051 -106.459305,83.24272 28.425425,17.37169 61.037605,31.41184 81.424655,60.91344 l 20.78939,-9.6679 z m 29.52755,129.99236 c -21.45244,5.647 -44.28463,14.5869 -66.24214,28.1622 l -16.42775,0.615 c 7.536,-6.7965 23.35915,-26.9284 5.71411,-18.051 -18.56706,11.0012 -53.051535,45.1588 -59.041535,51.1821 8.83734,-3.6068 9.36234,-4.478 28.375585,-9.6672 l 19.44065,-17.7006 12.86955,-0.3722 c -6.06511,4.3076 -11.80453,9.0177 -17.06083,14.1638 33.884,-11.0235 67.42225,-13.1352 103.72327,-12.6889 -0.91361,-0.8652 0.82663,-22.4435 -14.37515,-27.7022 z m 4.28813,0.247 -2.31639,6.085 c 13.44939,5.2012 12.33605,22.1386 13.57153,29.2074 l 23.96504,1.5363 c 2.66938,-8.1245 10.81281,-19.2575 20.92823,-23.7844 l 3.04355,-7.1945 c -39.07321,-6.1303 -41.79776,-4.3791 -59.19195,-5.8498 z"
+       d="m 1657.9695,1598.2982 c -76.8114,0 -139.1221,62.3125 -139.1221,139.1239 0,76.8115 62.3107,139.1223 139.1221,139.1223 76.8115,0 139.1235,-62.3108 139.1235,-139.1223 0,-76.8114 -62.312,-139.1239 -139.1235,-139.1239 z m 0.01,0.1445 c 74.5983,0 135.0205,64.3813 135.0205,138.9794 0,34.9679 -12.2574,65.9608 -34.0489,89.9374 -5.0745,-3.9994 -17.9988,-15.9878 -14.4769,-37.3178 -67.0322,-6.2672 -130.8042,4.2694 -191.2822,32.5455 0.1967,0.2417 0.3794,0.4949 0.5776,0.7352 -19.2595,-23.3388 -30.8259,-53.2635 -30.8259,-85.9003 0,-74.5981 60.4373,-138.9794 135.0355,-138.9794 z m 18.667,20.2818 c -59.4467,25.6023 -80.1041,58.3805 -106.4593,83.2427 28.4254,17.3717 61.0376,31.4118 81.4246,60.9134 l 20.7894,-9.6679 z m 29.5275,129.9923 c -21.4524,5.647 -44.2846,14.5869 -66.2421,28.1622 l -16.4278,0.615 c 7.536,-6.7965 23.3592,-26.9284 5.7141,-18.051 -18.567,11.0012 -53.0515,45.1588 -59.0415,51.1821 8.8373,-3.6068 9.3623,-4.478 28.3756,-9.6672 l 19.4406,-17.7006 12.8696,-0.3722 c -6.0651,4.3076 -11.8045,9.0177 -17.0608,14.1638 33.884,-11.0235 67.4222,-13.1352 103.7232,-12.6889 -0.9136,-0.8652 0.8267,-22.4435 -14.3751,-27.7022 z m 4.2881,0.247 -2.3163,6.085 c 13.4493,5.2012 12.336,22.1386 13.5715,29.2074 l 23.965,1.5363 c 2.6694,-8.1245 10.8128,-19.2575 20.9283,-23.7844 l 3.0435,-7.1945 c -39.0732,-6.1303 -41.7978,-4.3791 -59.1919,-5.8498 z"
        sodipodi:nodetypes="sssssssccccsssccccccccccccccccccccccccc"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
@@ -634,33 +647,70 @@
        aria-label="KENU"
        id="text1300-6-6"
        style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient1640);fill-opacity:1;stroke:none;stroke-width:1.42596"
-       transform="translate(-37.570865,816.12756)"
+       transform="translate(1447.1907,1541.7671)"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
-         id="g1656">
+         id="g1656"
+         style="fill:url(#linearGradient943)">
         <path
            id="path1340-2-5"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient1660);fill-opacity:1;stroke-width:5.38945"
-           d="M 1427.4805 3297.3574 L 1427.4805 4105.7773 L 1532.0684 4105.7773 L 1532.0684 3724.3047 L 1539.1426 3715.7148 L 1698.7539 3892.5859 L 1789.248 4105.7773 L 1916.0684 4105.7773 L 1799.7344 3842.0488 L 1607.3535 3629.8203 L 1855.4375 3297.3574 L 1723.0586 3297.3574 L 1532.0684 3552.0098 L 1532.0684 3297.3574 L 1427.4805 3297.3574 z M 2037.8359 3297.3574 L 2037.0469 3654.8809 L 2010.6504 3702.1992 L 2037.7559 3747.0566 L 2037.8359 4105.7773 L 2473.373 4105.7773 L 2473.373 4000.6836 L 2142.4258 4000.6836 L 2142.4258 3753.6094 L 2257.373 3753.6094 L 2282.791 3701.1406 L 2257.373 3649.0195 L 2142.4258 3649.0195 L 2142.4258 3401.9473 L 2473.373 3401.9473 L 2473.373 3297.3574 L 2037.8359 3297.3574 z M 2611.8145 3297.3574 L 2611.8145 4105.7773 L 2716.4043 4105.7773 L 2716.4043 3465.6934 L 3050.8008 3808.957 L 3054.4258 4105.7773 L 3145.877 4105.7773 L 3145.877 3297.3574 L 3040.7832 3297.3574 L 3040.7832 3644.3672 L 2707.3105 3297.3574 L 2611.8145 3297.3574 z M 3296.9512 3297.3574 L 3296.9512 3837.4824 C 3296.9512 3913.2718 3323.7312 3978.1151 3377.2891 4032.0098 C 3431.1837 4085.5676 3496.025 4112.3457 3571.8145 4112.3457 C 3647.6038 4112.3457 3712.445 4085.3986 3766.3398 4031.5039 C 3810.803 3986.704 3837.5832 3931.7995 3846.6777 3866.7891 L 3846.6777 3297.3574 L 3741.582 3297.3574 L 3741.582 3837.4824 C 3741.582 3884.3034 3725.0768 3924.22 3692.0664 3957.2305 C 3659.056 3990.241 3618.9724 4006.7461 3571.8145 4006.7461 C 3524.9935 4006.7461 3484.9099 3990.241 3451.5625 3957.2305 C 3418.552 3923.8831 3402.0469 3883.9666 3402.0469 3837.4824 L 3402.0469 3297.3574 L 3296.9512 3297.3574 z "
+           d="m 1427.4805,3297.3574 v 808.4199 h 104.5879 v -381.4726 l 7.0742,-8.5899 159.6113,176.8711 90.4941,213.1914 h 126.8204 l -116.334,-263.7285 -192.3809,-212.2285 248.084,-332.4629 h -132.3789 l -190.9902,254.6524 v -254.6524 z m 610.3554,0 -0.789,357.5235 -26.3965,47.3183 27.1055,44.8574 0.08,358.7207 h 435.5371 v -105.0937 h -330.9472 v -247.0742 h 114.9472 l 25.418,-52.4688 -25.418,-52.1211 h -114.9472 v -247.0722 h 330.9472 v -104.5899 z m 573.9786,0 v 808.4199 h 104.5898 v -640.0839 l 334.3965,343.2636 3.625,296.8203 h 91.4512 v -808.4199 h -105.0938 v 347.0098 l -333.4727,-347.0098 z m 685.1367,0 v 540.125 c 0,75.7894 26.78,140.6327 80.3379,194.5274 53.8946,53.5578 118.7359,80.3359 194.5254,80.3359 75.7893,0 140.6305,-26.9471 194.5253,-80.8418 44.4632,-44.7999 71.2434,-99.7044 80.3379,-164.7148 V 3297.3574 H 3741.582 v 540.125 c 0,46.821 -16.5052,86.7376 -49.5156,119.7481 -33.0104,33.0105 -73.094,49.5156 -120.2519,49.5156 -46.821,0 -86.9046,-16.5051 -120.252,-49.5156 -33.0105,-33.3474 -49.5156,-73.2639 -49.5156,-119.7481 v -540.125 z"
            transform="matrix(0.26458333,0,0,0.26458333,37.570865,-816.12756)" />
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:58.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:9.67846px;word-spacing:0px;display:inline;fill:#ff0166;fill-opacity:1;stroke:none;stroke-width:1.46698;"
-       x="374.55316"
-       y="1149.9954"
+       style="font-style:normal;font-weight:normal;font-size:58.6793px;line-height:1.25;font-family:sans-serif;letter-spacing:9.67846px;word-spacing:0px;display:inline;fill:#ff0166;fill-opacity:1;stroke:none;stroke-width:1.46698"
+       x="1859.3148"
+       y="1875.6349"
        id="text1304-8-8"
        inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1302-8-8"
-         x="374.55316"
-         y="1149.9954"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6793px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0166;fill-opacity:1;stroke-width:1.46698;"
+         x="1859.3148"
+         y="1875.6349"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.6793px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0166;fill-opacity:1;stroke-width:1.46698"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">CASUAL SURFWEAR</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       id="path1261-7-9"
+       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.213172;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 196.75178,8.5919379 c -76.0081,0 -137.667196,61.6607521 -137.667196,137.6689421 0,76.0081 61.659096,137.66706 137.667196,137.66706 76.00809,0 137.66835,-61.65896 137.66835,-137.66706 0,-76.00819 -61.66026,-137.6689421 -137.66835,-137.6689421 z m 0.01,0.142989 c 73.81796,0 133.60826,63.7079121 133.60826,137.5259531 0,34.60216 -12.12928,65.2708 -33.69277,88.99661 -5.02142,-3.95756 -17.81054,-15.82057 -14.32547,-36.92738 -66.33109,-6.20175 -129.43607,4.22474 -189.281741,32.20499 0.194661,0.23918 0.375442,0.48973 0.571574,0.72751 C 74.583563,208.16803 63.13814,178.55622 63.13814,146.26088 63.13814,72.442839 122.94343,8.7349269 196.76148,8.7349269 Z m 38.2785,13.1303151 c -139.789354,-46.142089 -69.89462,-23.0710451 0,0 z m -19.80684,6.939357 c -58.82501,25.334516 -79.26638,57.769865 -105.34608,82.372061 28.12824,17.19006 60.40866,31.22027 80.58252,60.41329 l 20.56257,-9.70372 z m 29.21875,128.632751 c -21.22802,5.58793 -43.82141,14.43442 -65.54924,27.86763 l -16.25598,0.60857 c 7.45717,-6.7254 23.11488,-26.64674 5.65433,-17.86219 -18.37279,10.88613 -52.49674,44.68647 -58.42412,50.64677 8.74491,-3.56898 9.26442,-4.43107 28.07896,-9.56609 l 19.23727,-17.51546 12.73499,-0.36831 c -6.00166,4.26255 -11.68113,8.92338 -16.88245,14.01565 33.52959,-10.90819 66.71711,-12.99771 102.63842,-12.55617 -0.90405,-0.85606 0.81795,-22.20876 -14.22475,-27.41246 z m 4.24325,0.24442 -2.29217,6.02144 c 13.30872,5.14681 12.20707,21.90705 13.42964,28.90191 l 23.71435,1.52014 c 2.64148,-8.03943 10.6997,-19.05608 20.7093,-23.53563 l 3.01176,-7.11925 c -38.66451,-6.06618 -41.36061,-4.3333 -58.57288,-5.78861 z"
+       sodipodi:nodetypes="sssssssccccssscccccccccccccccccccccccccc" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/canuto/Documents/Repos/kenu/export-trio.png"
+       aria-label="KENU"
+       id="text1300-6-3"
+       style="font-style:normal;font-weight:normal;font-size:273.785px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42596"
+       transform="matrix(0.3947758,0,0,0.3947758,-93.52535,278.8961)">
+      <path
+         d="m 442.93075,169.26133 v 100.93148 h -27.6726 V 56.298276 h 27.6726 v 67.376774 l 50.53259,-67.376774 h 35.02523 l -65.63889,87.964124 50.90094,56.15218 30.78004,69.77823 h -33.55471 l -23.9432,-56.40675 -42.23042,-46.79736 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.42596"
+         id="path1340-2-6"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         d="M 691.9842,56.298276 V 83.970881 H 604.42113 V 149.3424 h 30.41307 l 6.72534,13.78996 -6.72534,13.88264 h -30.41307 v 65.37152 h 87.56307 v 27.80629 H 576.74852 l -0.0213,-94.91143 -7.1719,-11.86861 6.9844,-12.51994 0.20875,-94.594554 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.42596"
+         id="path1342-7-8"
+         sodipodi:nodetypes="ccccccccccccccccc" />
+      <path
+         d="m 728.61362,56.298276 h 25.26629 L 842.1114,148.11134 V 56.298276 h 27.80629 V 270.19281 h -24.19682 l -0.95875,-78.53376 -88.4759,-90.82171 v 169.35547 h -27.6726 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.42596"
+         id="path1344-1-0"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         d="m 1027.5312,56.298276 h 27.8063 V 206.96024 q -3.6094,25.80103 -21.2557,43.58101 -21.3895,21.38945 -51.46841,21.38945 -30.07892,0 -51.46837,-21.25577 -21.25577,-21.38945 -21.25577,-51.46837 V 56.298276 h 27.80629 V 199.20656 q 0,18.44841 13.10104,31.68313 13.23473,13.10104 31.81681,13.10104 18.71581,0 31.81681,-13.10104 13.101,-13.10104 13.101,-31.68313 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:273.785px;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.42596"
+         id="path1346-5-2" />
+    </g>
   </g>
 </svg>
